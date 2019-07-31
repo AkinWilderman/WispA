@@ -1,2 +1,2 @@
 # WispA
-a social media application
+A social media application
