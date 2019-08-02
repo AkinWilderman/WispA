@@ -3,6 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
     <string name="profile_name">Akin Wilderman</string>
     <string name="time">5 hrs ago</string>
     <string name="post">This is a project I am contemplating on, how many of una go use am if I build am?</string>
@@ -13,4 +15,5 @@
     <string name="avatar">avatar</string>
     <string name="react">React</string>
     <string name="share">Distribute</string>
+    <string name="title_activity_profile">profile</string>
 </resources>
